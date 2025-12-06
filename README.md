@@ -73,8 +73,9 @@ pip install   gymnasium   stable-baselines3   shimmy   pygame   pymunk   matplot
 ---
 
 ## Usage
-## 학습 모델 다운로드
-- 링크 : https://drive.google.com/file/d/1id0W1qsytguwFxdHZUwADNJZNBi3LA9S/view?usp=drive_link
+## 0. 학습 모델 다운로드
+- 링크 : https://drive.google.com/drive/folders/1GViZ4zEyzjMfsshESQsR14QD-9iOHYJH?usp=drive_link
+- **ppo_billiards_3cushion.zip** 혹은 **ppo_billiards_3cushion(SOTA_0.55).zip** 다운로드
 - play.py와 같은 디렉토리에 저장
   
 ### 1. Training (From Scratch)
