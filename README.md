@@ -1,4 +1,4 @@
-# Deep RL for 3-Cushion Billiards (PPO)
+# RL for 3-Cushion Billiards (PPO)
 
 본 프로젝트는 강화학습 **PPO (Proximal Policy Optimization)**알고리즘을 사용하여,  
 물리 엔진 기반의 3쿠션 당구 환경에서 에이전트가 득점 경로를 스스로 학습하도록 하는 연구 프로젝트입니다.
@@ -172,7 +172,7 @@ for step in range(200):
 
 ---
 
-## 📊 Key Features & Techniques
+## Key Features & Techniques
 
 ### 1. Reward Normalization (Custom Scaling)
 
@@ -221,7 +221,7 @@ PPO 학습 안정성을 위한 전략들:
 
 ---
 
-## 🧪 Research / Analysis 방향 (예시)
+## Research / Analysis 방향 (예시)
 
 - **연속 득점 분포 분석**
   - 에피소드 당 연속 득점 수(run length) 히스토그램
@@ -237,7 +237,7 @@ PPO 학습 안정성을 위한 전략들:
 
 ---
 
-## 🐛 Troubleshooting Guide
+## Troubleshooting Guide
 
 ### 1. PyGame 창이 안 뜨거나 바로 꺼짐
 
