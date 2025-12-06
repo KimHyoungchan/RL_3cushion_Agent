@@ -294,11 +294,11 @@ PPO 학습 안정성을 위한 전략들:
 
 ```text
 RL_3cushion_Agent/
+├── _pycache_/               
+├── logs/  
 ├── environment_set.py     
 ├── simulation.py          
-├── play.py                
-├── _pycache_/               
-├── logs/                 
+├── play.py                               
 ├── README.md
 └── requirements.txt
 ```
